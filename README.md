@@ -87,7 +87,6 @@ pip install -r requirements.txt
 python train_eff_b2.py
 python train_eff_b3.py
 python evaluate_ensemble.py
-python app.py
 ```
 
 ## Applications
