@@ -72,7 +72,6 @@ README.md
 7.  Train EfficientNet-B2 and EfficientNet-B3.
 8.  Perform ensemble prediction using TTA and soft voting.
 9.  Evaluate the model.
-10. Predict disease stage through the Flask web application.
 
 ## Installation
 
