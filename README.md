@@ -108,7 +108,7 @@ python app.py
 
 ## Author
 
-**Varun M**
+**Harini G**
 
 MCA Student \| AI & Machine Learning Enthusiast
 
